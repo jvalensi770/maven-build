@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 18 14:14:39 CEST 2025
+https\://maven.anypoint.mulesoft.com/api/v1/maven/.lastUpdated=1718803732570
+https\://repository.mulesoft.org/releases/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1758197679466
+https\://maven.anypoint.mulesoft.com/api/v3/maven/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.safrangroup.sae\:s-sae-domain\:jar\:mule-domain\:1.0.0 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/com/safrangroup/sae/s-sae-domain/1.0.0/s-sae-domain-1.0.0-mule-domain.jar
+https\://maven.anypoint.mulesoft.com/api/v1/maven/.error=
+https\://maven.anypoint.mulesoft.com/api/v3/maven/.lastUpdated=1718803732791
+https\://repository.mulesoft.org/releases/.lastUpdated=1718803732673
